@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\sravnqvane na simvolni nizove.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\sravnqvane na simvolni nizove.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\sravnqvane na simvolni nizove.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\sravnqvane na simvolni nizove.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\sravnqvane na simvolni nizove.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\ref\sravnqvane na simvolni nizove.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\bin\Debug\net5.0\sravnqvane na simvolni nizove.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\ref\sravnqvane na simvolni nizove.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sravnqvane na simvolni nizove\obj\Debug\net5.0\sravnqvane na simvolni nizove.genruntimeconfig.cache

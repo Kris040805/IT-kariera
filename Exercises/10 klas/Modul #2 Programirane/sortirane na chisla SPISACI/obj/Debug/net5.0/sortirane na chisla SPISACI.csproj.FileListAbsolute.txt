@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\sortirane na chisla SPISACI.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\sortirane na chisla SPISACI.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\sortirane na chisla SPISACI.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\sortirane na chisla SPISACI.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\sortirane na chisla SPISACI.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\ref\sortirane na chisla SPISACI.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\bin\Debug\net5.0\sortirane na chisla SPISACI.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\ref\sortirane na chisla SPISACI.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\sortirane na chisla SPISACI\obj\Debug\net5.0\sortirane na chisla SPISACI.genruntimeconfig.cache
