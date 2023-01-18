@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chisla kvadrati/1.0.0": {
+        "runtime": {
+          "chisla kvadrati.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chisla kvadrati/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

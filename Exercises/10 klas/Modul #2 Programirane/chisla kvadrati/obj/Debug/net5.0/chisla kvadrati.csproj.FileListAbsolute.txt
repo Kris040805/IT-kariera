@@ -1,0 +1,15 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\chisla kvadrati.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\chisla kvadrati.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\chisla kvadrati.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\chisla kvadrati.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\chisla kvadrati.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\ref\chisla kvadrati.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\bin\Debug\net5.0\chisla kvadrati.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\ref\chisla kvadrati.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\chisla kvadrati\obj\Debug\net5.0\chisla kvadrati.genruntimeconfig.cache
