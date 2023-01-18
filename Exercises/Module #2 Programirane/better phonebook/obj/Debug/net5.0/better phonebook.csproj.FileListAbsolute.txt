@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\better phonebook.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\better phonebook.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\better phonebook.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\better phonebook.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\better phonebook.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\ref\better phonebook.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\bin\Debug\net5.0\better phonebook.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\ref\better phonebook.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\better phonebook\obj\Debug\net5.0\better phonebook.genruntimeconfig.cache
