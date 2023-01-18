@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\RegularExam.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\RegularExam.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\RegularExam.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\RegularExam.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\RegularExam.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\ref\RegularExam.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\bin\Debug\net5.0\RegularExam.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\ref\RegularExam.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №3\RegularExam\obj\Debug\net5.0\RegularExam.genruntimeconfig.cache
