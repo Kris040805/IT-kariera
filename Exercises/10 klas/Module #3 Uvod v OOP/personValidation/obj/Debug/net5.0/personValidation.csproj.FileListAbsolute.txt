@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\personValidation.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\personValidation.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\personValidation.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\personValidation.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\personValidation.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\ref\personValidation.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\bin\Debug\net5.0\personValidation.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\ref\personValidation.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №3   Uvod v obektno-oreantiranoto programirane\personValidation\obj\Debug\net5.0\personValidation.genruntimeconfig.cache
