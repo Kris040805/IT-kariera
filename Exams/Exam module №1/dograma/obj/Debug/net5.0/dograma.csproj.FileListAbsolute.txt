@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\dograma.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\dograma.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\dograma.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\dograma.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\dograma.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\ref\dograma.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\bin\Debug\net5.0\dograma.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\ref\dograma.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\dograma\obj\Debug\net5.0\dograma.genruntimeconfig.cache
