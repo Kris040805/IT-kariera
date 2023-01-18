@@ -1,0 +1,15 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ChristmasPresents.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ChristmasPresents.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ChristmasPresents.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ChristmasPresents.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ChristmasPresents.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ref\ChristmasPresents.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\bin\Debug\net5.0\ChristmasPresents.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ref\ChristmasPresents.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\ChristmasPresents\obj\Debug\net5.0\ChristmasPresents.genruntimeconfig.cache
