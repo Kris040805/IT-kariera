@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\winningNumbers.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\winningNumbers.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\winningNumbers.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\winningNumbers.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\winningNumbers.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\ref\winningNumbers.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\bin\Debug\net5.0\winningNumbers.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\ref\winningNumbers.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\Zadachi ot izpit №1\winningNumbers\obj\Debug\net5.0\winningNumbers.genruntimeconfig.cache
