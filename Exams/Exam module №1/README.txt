@@ -1,1 +1,1 @@
-kskskskks
+Tasks from exam #1
