@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\vmakvane na element v sort masiv.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\vmakvane na element v sort masiv.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\vmakvane na element v sort masiv.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\vmakvane na element v sort masiv.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\vmakvane na element v sort masiv.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\ref\vmakvane na element v sort masiv.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\bin\Debug\net5.0\vmakvane na element v sort masiv.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\ref\vmakvane na element v sort masiv.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\vmakvane na element v sort masiv\obj\Debug\net5.0\vmakvane na element v sort masiv.genruntimeconfig.cache

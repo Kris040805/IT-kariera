@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "vmakvane na element v sort masiv/1.0.0": {
+        "runtime": {
+          "vmakvane na element v sort masiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vmakvane na element v sort masiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

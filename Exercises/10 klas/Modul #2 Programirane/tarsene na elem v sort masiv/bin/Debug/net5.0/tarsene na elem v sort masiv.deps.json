@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tarsene na elem v sort masiv/1.0.0": {
+        "runtime": {
+          "tarsene na elem v sort masiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tarsene na elem v sort masiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
