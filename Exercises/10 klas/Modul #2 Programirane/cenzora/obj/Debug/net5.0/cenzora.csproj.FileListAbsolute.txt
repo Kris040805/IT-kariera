@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\cenzora.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\cenzora.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\cenzora.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\cenzora.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\cenzora.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\ref\cenzora.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\bin\Debug\net5.0\cenzora.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\ref\cenzora.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\cenzora\obj\Debug\net5.0\cenzora.genruntimeconfig.cache

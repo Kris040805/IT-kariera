@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\broi na chisla.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\broi na chisla.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\broi na chisla.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\broi na chisla.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\broi na chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\ref\broi na chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\bin\Debug\net5.0\broi na chisla.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\ref\broi na chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na chisla\obj\Debug\net5.0\broi na chisla.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\broi na realni chisla.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\broi na realni chisla.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\broi na realni chisla.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\broi na realni chisla.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\broi na realni chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\ref\broi na realni chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\bin\Debug\net5.0\broi na realni chisla.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\ref\broi na realni chisla.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №2   Programirane\broi na realni chisla\obj\Debug\net5.0\broi na realni chisla.genruntimeconfig.cache
