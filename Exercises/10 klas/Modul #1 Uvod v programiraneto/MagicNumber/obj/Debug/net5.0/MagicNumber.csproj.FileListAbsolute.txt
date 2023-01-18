@@ -1,0 +1,32 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\MagicNumber.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\MagicNumber.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\MagicNumber.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\MagicNumber.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\ref\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\bin\Debug\net5.0\MagicNumber.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\ref\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\MagicNumber\obj\Debug\net5.0\MagicNumber.genruntimeconfig.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\MagicNumber.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\MagicNumber.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\MagicNumber.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\MagicNumber.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\ref\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\bin\Debug\net5.0\MagicNumber.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\ref\MagicNumber.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\MagicNumber\obj\Debug\net5.0\MagicNumber.genruntimeconfig.cache
