@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\doubleLinkedQueue.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\doubleLinkedQueue.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\doubleLinkedQueue.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\doubleLinkedQueue.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\doubleLinkedQueue.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\ref\doubleLinkedQueue.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\bin\Debug\net5.0\doubleLinkedQueue.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\ref\doubleLinkedQueue.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\doubleLinkedQueue\obj\Debug\net5.0\doubleLinkedQueue.genruntimeconfig.cache

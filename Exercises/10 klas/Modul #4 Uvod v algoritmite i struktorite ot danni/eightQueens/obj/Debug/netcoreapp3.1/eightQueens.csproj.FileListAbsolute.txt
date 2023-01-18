@@ -1,0 +1,14 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\bin\Debug\netcoreapp3.1\eightQueens.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\bin\Debug\netcoreapp3.1\eightQueens.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\bin\Debug\netcoreapp3.1\eightQueens.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\bin\Debug\netcoreapp3.1\eightQueens.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\bin\Debug\netcoreapp3.1\eightQueens.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\bin\Debug\netcoreapp3.1\eightQueens.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\eightQueens\obj\Debug\netcoreapp3.1\eightQueens.genruntimeconfig.cache
