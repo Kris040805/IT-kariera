@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\InsertMethod.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\InsertMethod.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\InsertMethod.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\InsertMethod.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\InsertMethod.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\ref\InsertMethod.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\bin\Debug\net5.0\InsertMethod.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\ref\InsertMethod.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\InsertMethod\obj\Debug\net5.0\InsertMethod.genruntimeconfig.cache

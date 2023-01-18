@@ -1,0 +1,14 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.genruntimeconfig.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.csproj.AssemblyReference.cache
