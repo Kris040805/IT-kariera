@@ -1,0 +1,32 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\matrix.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\matrix.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\matrix.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\matrix.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\ref\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\bin\Debug\net5.0\matrix.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\ref\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\matrix\obj\Debug\net5.0\matrix.genruntimeconfig.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\matrix.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\matrix.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\matrix.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\matrix.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\ref\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\bin\Debug\net5.0\matrix.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\ref\matrix.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №1   Uvod v programiraneto\matrix\obj\Debug\net5.0\matrix.genruntimeconfig.cache

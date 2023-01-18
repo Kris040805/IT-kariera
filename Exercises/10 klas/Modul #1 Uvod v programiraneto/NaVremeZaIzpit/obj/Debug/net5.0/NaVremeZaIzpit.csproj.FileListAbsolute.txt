@@ -1,0 +1,16 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\NaVremeZaIzpit.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\NaVremeZaIzpit.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\NaVremeZaIzpit.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\NaVremeZaIzpit.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\NaVremeZaIzpit.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\ref\NaVremeZaIzpit.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\bin\Debug\net5.0\NaVremeZaIzpit.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.csproj.AssemblyReference.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\ref\NaVremeZaIzpit.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\NaVremeZaIzpit\obj\Debug\net5.0\NaVremeZaIzpit.genruntimeconfig.cache
