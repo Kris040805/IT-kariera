@@ -1,0 +1,15 @@
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\SumAndAverage.exe
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\SumAndAverage.deps.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\SumAndAverage.runtimeconfig.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\SumAndAverage.runtimeconfig.dev.json
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\SumAndAverage.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\ref\SumAndAverage.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\bin\Debug\net5.0\SumAndAverage.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.AssemblyInfoInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.AssemblyInfo.cs
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\ref\SumAndAverage.dll
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.pdb
+C:\Users\ГабиПС\Desktop\училище крис\visual studio projects\zadachi za uprajnenie\Modul №4   Uvod v algoritmite i strukturite ot danni\SumAndAverage\obj\Debug\net5.0\SumAndAverage.genruntimeconfig.cache
